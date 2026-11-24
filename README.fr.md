@@ -1,7 +1,6 @@
-# EU TED Tenders Scraper — exemples
+**READMEs:** [English](README.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko.md)
 
-[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-eu-ted-notices-scraper-examples/blob/main/notebooks/quickstart.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-eu-ted-notices-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+# EU TED Tenders Scraper — exemples
 
 Avis de marchés publics de l'UE issus de TED : acheteur, CPV, valeur, délai, lien.
 
@@ -26,4 +25,3 @@ python3 examples/python/run.py
 
 Des exemples Python, JavaScript et curl sont dans `examples/`. Auteur : Public Records. Licence : MIT. Pas de GitHub Actions dans ce dépôt.
 
-READMEs: [English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Português](README.pt.md)
