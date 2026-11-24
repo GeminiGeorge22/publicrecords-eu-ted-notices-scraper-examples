@@ -1,5 +1,8 @@
 # EU TED Tenders Scraper — exemplos
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-eu-ted-notices-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-eu-ted-notices-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Avisos de contratação da UE no TED: entidade adjudicante, CPV, valor, prazo, ligação.
 
 O Actor corre na **sua** conta Apify (token de API ou OAuth). O uso é cobrado a si, no plano gratuito ou pago da Apify.
